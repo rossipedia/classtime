@@ -1,0 +1,20 @@
+{
+  "name": "classtime",
+  "version": "1.0.0",
+  "description": "An uber minimal set of class manipulation methods",
+  "main": "index.js",
+  "keywords": [
+    "css",
+    "classes"
+  ],
+  "author": "Bryan Ross <bryan@rossipedia.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rossipedia/classtime.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rossipedia/classtime/issues"
+  },
+  "homepage": "https://github.com/rossipedia/classtime#readme"
+}
